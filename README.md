@@ -1,3 +1,3 @@
-# Case-Analysis-Interview-Preps
+# Case-Analysis-Preps
 Analysis on datasets I've done/found interesting...
 Practice for case studies!
